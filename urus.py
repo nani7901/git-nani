@@ -1,0 +1,1 @@
+print("i wana be an data analyst soon this year")
